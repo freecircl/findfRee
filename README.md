@@ -9,10 +9,10 @@ fRee word is somewhere lost in pictures pixels, your mission is to find "fRee" a
 * Guess what? It's free for eternity.
 
 
-![](/findfree1.png)
+![](/findfree1.jpg)
 
 Not tired?...
 
-![](/findfree2.png)
+![](/findfree2.jpg)
 
 
